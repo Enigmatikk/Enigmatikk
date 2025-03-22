@@ -1,16 +1,17 @@
-## Hi there 👋
+👋Hey, I'm Enigmatikk 
 
-<!--
-**Enigmatikk/Enigmatikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Researcher | Cryptographer | Software Engineer
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub! I’m deeply fascinated by the complexities of cybersecurity, cryptography, and reverse engineering. My passion lies in creating highly secure, performance-optimized systems, combining advanced cryptographic methods with cutting-edge software development practices. Here, you’ll find my journey through some of the most complex and rewarding challenges in the world of information security and cryptography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Enigmatikk&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enigmatikk&show_icons=true" />
+</picture>
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/enigmatikk/count.svg" />
+</p>

@@ -11,7 +11,3 @@ Welcome to my corner of GitHub! I’m deeply fascinated by the complexities of c
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Enigmatikk&show_icons=true" />
 </picture>
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/enigmatikk/count.svg" />
-</p>
